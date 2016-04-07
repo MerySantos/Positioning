@@ -1,0 +1,24 @@
+/* Inserta tu CSS aqui */
+div{
+	width: 200px;
+	height: 200px;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.casiRojo{
+	background: #ee3e64;
+}
+.casiAzul{
+	background:#1a75ff;
+	position: absolute;
+	left: 200px;
+	top:200px;
+}
+.casiVerde{
+	background: #b7d84b;
+}
+.amarillo{
+	background: #ffff00;
+}
